@@ -8,3 +8,4 @@ Fix a bug - fix again
 Fix a bug
 stash - stash
 >>>>>>> Stashed changes
+vulcan vulcan
