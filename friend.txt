@@ -2,3 +2,4 @@ friend create this txt
 乙（Git_test2）添加了此行.
 甲（LearnGit）添加了此行，本次使用source tree实验。
 Rebase test
+rebase for source tree
